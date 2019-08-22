@@ -12,6 +12,10 @@ mark:hover{
 }
 
 
+input[type=text]{
+    width: 90%;
+}
+
 h2{ 
     color: #4aaaa5;
     padding-left: 2%;
@@ -24,7 +28,7 @@ h2{
     box-sizing: border-box;
     background-color: white;
     width: 960px;
-    height: 350px;
+    height: 400px;
     border: 10px;
     border-color: black;
     margin: auto;
@@ -44,3 +48,8 @@ h2{
     text-align: center;
     border-top: 5px solid #4aaaa5;
   }
+
+  form{
+      margin-left: 75px;
+  }
+
