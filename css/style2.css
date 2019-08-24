@@ -1,18 +1,9 @@
 /* css for portfolio */
 
-
-ul{
+.links{
   float: right;
-  display: block;
-  list-style-type: none;
-}
-
-
-
-.clearfix::after{
-  content:"";
-  display: block;
-  clear: both;
+  margin-right: 100px;
+  
 }
 
 
